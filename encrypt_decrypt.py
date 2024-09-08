@@ -49,6 +49,6 @@ while True:
         case '3':
             print("Exiting...")
             break
-
+        # _ means default , therefore default case
         case _:
             print("Invalid option. Please try again.")
